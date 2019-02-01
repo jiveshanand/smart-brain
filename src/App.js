@@ -19,6 +19,8 @@ class App extends Component {
           >
             Learn React
           </a>
+          <h1>This is a test View</h1>
+          <h1>This is a test View2</h1>
         </header>
       </div>
     );
